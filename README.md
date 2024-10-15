@@ -3,4 +3,4 @@
 
  Estou aprendendo a criar sites e agora vou gerenciar meus repositórios!
 
-<a href="https://ismalevjr.github.io/HTML_CSS_DO_ZERO/Desafios/d010/android.html" type="_blank"> Executar o desafio 10 </a>
+<a href="https://ismalevjr.github.io/HTML_CSS_DO_ZERO/Desafios/d010/android.html" target="_blank"> Executar o desafio 10 </a>
